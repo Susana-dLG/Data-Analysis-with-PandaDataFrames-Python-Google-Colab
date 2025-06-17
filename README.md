@@ -139,4 +139,6 @@ df["total_revenue"] = df["total_revenue"].round().astype(int)
 * ✅ This exercise demonstrates foundational data cleaning and engineering steps.
 
 > ✨ Ideal for beginners exploring data manipulation with Pandas in real-world scenarios!
-
+---
+Created by Susana-dLG
+May 2025
